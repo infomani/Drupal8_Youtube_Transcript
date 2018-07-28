@@ -1,0 +1,13 @@
+name: YouTube Video Transcript
+type: module
+description: Showing the Youtube Video Transcript based on time frame.
+# core: 8.x
+package: Transcript
+configure: transcript.settings
+dependencies:
+  - block
+# Information added by Drupal.org packaging script on 2018-01-28
+version: '8.x-1.0'
+core: '8.x'
+project: 'transcript'
+datestamp: 1517155386
